@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/AyanX.github.io/bookmark-landing-page/static/css/main.a44cb596.css",
-    "main.js": "/AyanX.github.io/bookmark-landing-page/static/js/main.5a62d716.js",
-    "static/js/453.ed3810f9.chunk.js": "/AyanX.github.io/bookmark-landing-page/static/js/453.ed3810f9.chunk.js",
-    "static/media/illustration-features-tab-3.svg": "/AyanX.github.io/bookmark-landing-page/static/media/illustration-features-tab-3.a4206aab7946773b29b702492d2d014b.svg",
-    "static/media/illustration-features-tab-2.svg": "/AyanX.github.io/bookmark-landing-page/static/media/illustration-features-tab-2.e933bd6d921c537d7743e08ea4ec488e.svg",
-    "static/media/illustration-hero.svg": "/AyanX.github.io/bookmark-landing-page/static/media/illustration-hero.66a004e9906ea25e1658538bd25b3153.svg",
-    "static/media/logo-bookmark-footer.svg": "/AyanX.github.io/bookmark-landing-page/static/media/logo-bookmark-footer.5590dffc00e7ddf99ac1112b5e5049bb.svg",
-    "static/media/logo-bookmark.svg": "/AyanX.github.io/bookmark-landing-page/static/media/logo-bookmark.d426263a94701e122e7d14b0c6eee7ce.svg",
-    "static/media/illustration-features-tab-1.svg": "/AyanX.github.io/bookmark-landing-page/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
-    "static/media/logo-chrome.svg": "/AyanX.github.io/bookmark-landing-page/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
-    "static/media/logo-firefox.svg": "/AyanX.github.io/bookmark-landing-page/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
-    "static/media/bg-dots.svg": "/AyanX.github.io/bookmark-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12393cb5f391a7.svg",
-    "index.html": "/AyanX.github.io/bookmark-landing-page/index.html",
-    "static/media/icon-twitter.svg": "/AyanX.github.io/bookmark-landing-page/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
-    "static/media/icon-facebook.svg": "/AyanX.github.io/bookmark-landing-page/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
-    "static/media/logo-opera.svg": "/AyanX.github.io/bookmark-landing-page/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
-    "static/media/icon-close.svg": "/AyanX.github.io/bookmark-landing-page/static/media/icon-close.b04dc29397de9c9f194fb075c140e966.svg",
-    "static/media/icon-hamburger.svg": "/AyanX.github.io/bookmark-landing-page/static/media/icon-hamburger.4385fd507d24f37ccbb3ae359b5c9555.svg",
-    "static/media/icon-arrow.svg": "/AyanX.github.io/bookmark-landing-page/static/media/icon-arrow.8174203a5d4fc44f5247b825de6e2158.svg",
-    "main.a44cb596.css.map": "/AyanX.github.io/bookmark-landing-page/static/css/main.a44cb596.css.map",
-    "main.5a62d716.js.map": "/AyanX.github.io/bookmark-landing-page/static/js/main.5a62d716.js.map",
-    "453.ed3810f9.chunk.js.map": "/AyanX.github.io/bookmark-landing-page/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/bookmark-landing-page/static/css/main.a44cb596.css",
+    "main.js": "/bookmark-landing-page/static/js/main.9bbf2489.js",
+    "static/js/453.ed3810f9.chunk.js": "/bookmark-landing-page/static/js/453.ed3810f9.chunk.js",
+    "static/media/illustration-features-tab-3.svg": "/bookmark-landing-page/static/media/illustration-features-tab-3.a4206aab7946773b29b702492d2d014b.svg",
+    "static/media/illustration-features-tab-2.svg": "/bookmark-landing-page/static/media/illustration-features-tab-2.e933bd6d921c537d7743e08ea4ec488e.svg",
+    "static/media/illustration-hero.svg": "/bookmark-landing-page/static/media/illustration-hero.66a004e9906ea25e1658538bd25b3153.svg",
+    "static/media/logo-bookmark-footer.svg": "/bookmark-landing-page/static/media/logo-bookmark-footer.5590dffc00e7ddf99ac1112b5e5049bb.svg",
+    "static/media/logo-bookmark.svg": "/bookmark-landing-page/static/media/logo-bookmark.d426263a94701e122e7d14b0c6eee7ce.svg",
+    "static/media/illustration-features-tab-1.svg": "/bookmark-landing-page/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
+    "static/media/logo-chrome.svg": "/bookmark-landing-page/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
+    "static/media/logo-firefox.svg": "/bookmark-landing-page/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
+    "static/media/bg-dots.svg": "/bookmark-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12393cb5f391a7.svg",
+    "index.html": "/bookmark-landing-page/index.html",
+    "static/media/icon-twitter.svg": "/bookmark-landing-page/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
+    "static/media/icon-facebook.svg": "/bookmark-landing-page/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
+    "static/media/logo-opera.svg": "/bookmark-landing-page/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
+    "static/media/icon-close.svg": "/bookmark-landing-page/static/media/icon-close.b04dc29397de9c9f194fb075c140e966.svg",
+    "static/media/icon-hamburger.svg": "/bookmark-landing-page/static/media/icon-hamburger.4385fd507d24f37ccbb3ae359b5c9555.svg",
+    "static/media/icon-arrow.svg": "/bookmark-landing-page/static/media/icon-arrow.8174203a5d4fc44f5247b825de6e2158.svg",
+    "main.a44cb596.css.map": "/bookmark-landing-page/static/css/main.a44cb596.css.map",
+    "main.9bbf2489.js.map": "/bookmark-landing-page/static/js/main.9bbf2489.js.map",
+    "453.ed3810f9.chunk.js.map": "/bookmark-landing-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a44cb596.css",
-    "static/js/main.5a62d716.js"
+    "static/js/main.9bbf2489.js"
   ]
 }
