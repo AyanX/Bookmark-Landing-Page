@@ -1,0 +1,63 @@
+.simple-wrapper {
+  margin-bottom: 5em;
+}
+.simple-container {
+  display: grid;
+  gap: 1.5em;
+  grid-template-columns:repeat(auto-fit , minmax(270px,1fr));
+}
+
+.simple-right {
+  
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1em;
+}
+.simple-img {
+  width: 100%;
+  position: relative;
+}
+.simple-img img {
+  width: 85%;
+  right: 0;
+  object-fit: cover;
+  position: absolute;
+}
+.simple-img > div {
+  padding-top: 4.5em;
+  margin-right: 7em;
+}
+.simple-img > div .float {
+  height: 230px;
+  background-color: var(--Soft-Blue);
+  border-radius: 0 115px 115px 0;
+  padding-top: 5em;
+  z-index: 10;
+}
+.simple-right{
+ padding-left: 1em;
+}
+.simple-right h3 {
+  color: var(--Very-Dark-Blue);
+  font-size: 1.25em;
+}
+.simple-right > h5 {
+  font-weight: light;
+  color: var(--Grayish-Blue);
+}
+.simple-right div button {
+  margin-top: 1em;
+  padding: 0.6em 1.5em;
+  background-color: var(--Soft-Blue);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  border-radius: 4px;
+  transition: all .3s;
+}
+.simple-right div button:hover{
+    background-color: var(--Very-Dark-Blue);
+}

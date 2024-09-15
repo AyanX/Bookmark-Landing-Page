@@ -1,0 +1,88 @@
+.layover-wrapper{
+    min-height: 100vh; 
+    width: 100%;
+    margin: 0 auto;
+    background-color: hsla(229, 31%, 21%, 0.975);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.layover-container{
+    width: 80%;
+    margin: 0 auto;
+    height: 100vh;
+    padding: 2em 0;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: space-between;
+}
+.layover-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 1.6em;
+}
+.layover-nav > div {
+    cursor: pointer;
+    padding: 6px 12px;
+    transition: all .3s;
+}
+.layover-nav > div:hover {
+   background-color: var(--Very-Dark-Blue);
+}
+
+
+.layover-section{
+    
+text-align: center;
+}
+.layover-section hr{
+    margin: 7px 0;
+    height: 1px;
+    color: gray;
+}
+.layover-section h4{
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.layover-section > div{
+    padding: 13px 0;
+    cursor: pointer;
+    transition: all .3s;
+    border-radius: 6px;
+}
+.layover-section > div:hover{
+ background-color: var(--Soft-Blue);
+}
+
+.layover-section button {
+  margin-top: 2em;
+  width: 100%;
+  padding: 0.9em 0;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1.5px solid white;
+  outline: none;
+  color: white;
+  transition: all .3s;
+}
+.layover-section button:hover{
+    background-color: var(--Soft-Red);
+}
+
+.layover-footer {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 2em;
+}
+.layover-footer img {
+    cursor: pointer;
+    transition: all .3s;
+}
+.layover-footer img:hover {
+    transform: rotate(360deg);
+}

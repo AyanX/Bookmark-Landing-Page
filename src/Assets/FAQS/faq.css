@@ -1,0 +1,74 @@
+.faq-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.faq-container {
+    text-align: center;
+    min-width:50%;
+    max-width: 90%;
+    margin-bottom: 4em;
+}
+.faq-container > h4{
+  font-size: 1.44em;
+ 
+}
+.faq-container-inner{
+  display: flex;
+  justify-content: center;
+}
+.faq-container-inner > div{
+  min-width:50%;
+  max-width: 80%;
+}
+
+.faq-container-inner h5{
+  color: var(--Grayish-Blue);
+  font-size: 12px;
+  margin-top: 1.5em;
+  margin-bottom: 3em;
+}
+.accordion-holder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+  margin-right: 1.5em;
+  text-align: left;
+  cursor: pointer;
+}
+.accordion-holder h4{
+  transition: all .2s ease-in-out;
+  font-weight:400;
+}
+.accordion-holder img{
+  height: 13px;
+}
+.accordion-holder:hover h4{
+  color: var(--Soft-Red);
+ 
+}
+.accordion-text-data{
+  text-align: left;
+  margin-top: 0.8em;
+}
+.accordion-text-data p {
+  color: var(--Grayish-Blue);
+}
+.accordion hr{
+  margin: 0.75em 0;
+}
+.accordion-button{
+  margin-top: 2em;
+  padding: 9px 14px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: var(--Soft-Blue);
+  color: white;
+  transition: all .25s ease;
+  border-radius: 5px;
+}
+.accordion-button:hover{
+  background-color: var(--Soft-Red);
+}

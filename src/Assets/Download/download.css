@@ -1,0 +1,72 @@
+.downloads-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2em;
+  color: var(--Very-Dark-Blue);
+  margin-bottom: 2.8em;
+}
+.downloads-container-inner {
+  min-width: 50%;
+  max-width: 85%;
+  text-align: center;
+  color: var(--Grayish-Blue);
+}
+.downloads-container-center {
+  width: 80%;
+  max-width: 95%;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  gap: 1em;
+}
+.downloads-container-center > div {
+  transition: all 0.3s;
+  cursor: pointer;
+
+  -webkit-box-shadow: -2px 11px 18px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -2px 11px 18px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: -2px 11px 18px -7px rgba(0, 0, 0, 0.75);
+}
+.downloads-container-center > div:hover {
+  transform: scale(1.15);
+}
+
+.page {
+  margin-bottom: 1.5em;
+  overflow-x: hidden;
+  padding: 1.5em 0;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+  justify-content: space-around;
+  color: var(--Very-Dark-Blue);
+  
+  -webkit-box-shadow: 5px 5px 3px -2px rgba(0, 0, 0, 0.48);
+  -moz-box-shadow: 5px 5px 3px -2px rgba(0, 0, 0, 0.48);
+  box-shadow: 5px 5px 3px -2px rgba(0, 0, 0, 0.48);
+}
+.page button {
+  cursor: pointer;
+  transition: all 0.3s;
+  padding: 9px 1.2em;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: var(--Soft-Blue);
+  color: white;
+}
+.page button:hover {
+  background-color: var(--Very-Dark-Blue);
+}
+.page h4 {
+  margin-bottom: -8px;
+}
+.page > h5 {
+  color: var(--Grayish-Blue);
+  font-size: 12px;
+  font-weight: lighter;
+}

@@ -1,0 +1,74 @@
+.section-container-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit , minmax(300px ,1fr));
+  margin-top: 5em;
+  
+}
+.section-container-content-left {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  margin-bottom: 1.2em;
+  color: var(--Very-Dark-Blue);
+  gap: 1.4em;
+}
+.section-container-content-left h3 {
+  font-size: 35px;
+  line-height: 1em;
+}
+.section-container-content-left >h5 {
+  font-weight: 400;
+  color: var(--Grayish-Blue);
+}
+.section-container-content-left > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+.section-container-content-left button {
+  padding: 8px 9px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  transition: all 0.3s;
+}
+.section-container-content-left button h5 {
+  font-size: 0.8em;
+  font-weight: light;
+}
+.btn-1 {
+  background-color: var(--Soft-Blue);
+  color: white;
+}
+.btn-1:hover,
+.btn-2:hover {
+  background-color: var(--Very-Dark-Blue);
+  color: white;
+}
+.btn-2 {
+  background-color: #e3edf8;
+  color: var(--Very-Dark-Blue);
+}
+
+.section-container-right {
+  padding-right: 5em;
+  position: relative;
+  width: clamp(380px ,450px,500px);
+}
+.section-container-right img {
+  position: absolute;
+  top: 0;
+  min-width: 200px;
+  max-width: 400px;
+}
+.section-container-right div div {
+  width: 100%;
+  height: 15em;
+  background-color: var(--Soft-Blue);
+  border-radius: 7.5em 0 0 7.5em;
+  margin-top: 6em;
+  margin-left: 8em;
+}
